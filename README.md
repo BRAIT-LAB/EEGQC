@@ -1,2 +1,2 @@
-# EEGOC
+# EEGQC
 ruanjie
